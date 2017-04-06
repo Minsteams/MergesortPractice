@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{C0688F91-37CA-45F7-8B72-E40873193D5B}</ProjectGuid>
-    <RootNamespace>Mergesoft</RootNamespace>
+    <ProjectGuid>{3528556F-7299-46B8-9CF2-8F6981CD322B}</ProjectGuid>
+    <RootNamespace>Mergesort</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
