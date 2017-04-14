@@ -23,6 +23,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Maincpp.cpp" />
+    <ClCompile Include="mergesort.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{3528556F-7299-46B8-9CF2-8F6981CD322B}</ProjectGuid>

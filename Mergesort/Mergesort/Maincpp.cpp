@@ -1,3 +1,4 @@
+/*控制台手动输入
 #include <iostream>
 #include<vector>
 #include "Mergesort.h"
@@ -37,3 +38,4 @@ void main() {
 	_getch();
 	_getch();
 }
+*/

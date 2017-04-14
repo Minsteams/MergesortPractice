@@ -1,0 +1,7 @@
+DataCount:800000
+NumberMax:60000
+Test data created!
+Use time:2.251880
+Press any key to mergesort it...
+Mergesorted!
+Use time:0.180621
